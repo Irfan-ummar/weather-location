@@ -27,6 +27,15 @@
                 Manage Projects
               </router-link>
             </div>
+
+            <div class="action-card">
+              <div class="card-icon">📹</div>
+              <h3>Camera System</h3>
+              <p>Set up and monitor your CCTV cameras with floor plan mapping.</p>
+              <router-link to="/cameras" class="btn btn-success">
+                Camera Dashboard
+              </router-link>
+            </div>
           </div>
         </div>
       </div>

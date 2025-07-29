@@ -16,6 +16,9 @@
             <router-link to="/projects" class="nav-link" active-class="active">
               🗺️ Projects
             </router-link>
+            <router-link to="/cameras" class="nav-link" active-class="active">
+              📹 Cameras
+            </router-link>
           </nav>
         </div>
       </nav>
